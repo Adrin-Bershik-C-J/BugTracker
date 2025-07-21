@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const bugList = document.getElementById('bugList');
 
   let bugs = [];
-
+//Backend change
   bugForm.addEventListener('submit', function (e) {
     e.preventDefault();
 
